@@ -2,7 +2,7 @@ import random
 
 print("===== FRETBOARD TRAINER =====")
 
-print("\nIf you can complete level 2, 3, and 4 at 100bpm, you're done.")
+print("\nIf you can complete level 2, 3, and 4 at 100bpm, you're done.\n")
 
 notes = ["A", "A#/Bb", "B", "C", "C#/Db", "D", "D#/Eb", "E", "F", "F#/Gb", "G", "G#/Ab"]
 
